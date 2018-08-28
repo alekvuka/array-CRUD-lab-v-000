@@ -47,7 +47,7 @@ def retrieve_first_element_from_array(array)
 
   element = Array.new
   element = array[0]
-  return element 
+  return element
 
 end
 
